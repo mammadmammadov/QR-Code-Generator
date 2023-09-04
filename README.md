@@ -11,4 +11,6 @@ _npm install_
 
 To use the project, you will need to provide the URL of the website that you want to create a QR code for. You can do this by running the following command and then provide the link upon the request message from the terminal.
 
+_node index.js_
+
 This will create a QR code image named qr-image.png in the current directory.
