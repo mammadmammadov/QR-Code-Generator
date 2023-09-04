@@ -13,4 +13,4 @@ To use the project, you will need to provide the URL of the website that you wan
 
 _node index.js_
 
-This will create a QR code image named qr-image.png in the current directory.
+This will create a QR code image named qr-image.png and a URL.txt file containing the link in the current directory.
