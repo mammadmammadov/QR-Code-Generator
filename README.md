@@ -2,7 +2,7 @@
 
 This project creates a QR code image from a given URL.
 
-## :arrow_down: Installation
+## Installation
 
 To install the project, you will need to have Node.js installed. Once you have it installed, you can install the required dependencies for the project by running the following command:
 
