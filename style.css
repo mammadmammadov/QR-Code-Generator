@@ -11,6 +11,7 @@ body {
   min-height: 100vh;
   font-family: Arial, sans-serif;
   background: rgb(255, 179, 64);
+  overflow-y: hidden;
 }
 
 .wrapper {
